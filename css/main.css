@@ -1,0 +1,26 @@
+body{
+    background-repeat: no-repeat, repeat;
+    background-size:1300px;
+   
+}
+
+h1{
+    padding: 20px;
+   
+}
+
+div{
+    padding: 20px;
+    color:rgb(168, 29, 170);
+    font-style: italic;
+    font-size: solid;
+}
+btn{
+    padding: 20px;
+}
+input {
+    min-width: 80%;
+    display: block;
+    margin: 0 auto;
+    color:rgb(33, 34, 121);
+}
